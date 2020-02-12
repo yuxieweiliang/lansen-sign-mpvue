@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "查看启动日志",
+  "usingComponents": {
+    "van-tab": "/static/@vant/tab/index",
+    "van-tabs": "/static/@vant/tabs/index"
+  }
+}

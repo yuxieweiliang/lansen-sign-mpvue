@@ -1,0 +1,143 @@
+<template>
+  <section class="details">
+    <img class="banner" src="/static/images/details_01.png" alt="">
+    <div class="details-card">
+      <header class="card-title">
+        <div>01</div>
+      </header>
+      <p>
+        朗生城市运营中心须由<span class="bold">两名以上合伙人合作经营</span>，各合伙人具有合法资格，无违法记录，负责运营中心日常经营的人员必须为城市运营中心的合伙人，需持有城市运营中心的<span class="bold">股份不少于30%。</span>
+      </p>
+    </div>
+    <div class="details-card">
+      <header class="card-title">
+        <div>02</div>
+      </header>
+      <p>
+        <span class="bold">经营范围仅限所在城市的行政管辖区域范围内</span>。经营权限为“除泛家居十四个细分行业之外的行业业务”，泛家居十四个细分行业具体为：家具、橱衣柜、门窗、楼梯、涂料、家纺、墙纸墙布、照明、开关、吊顶、卫浴、陶瓷、五金、家电。
+      </p>
+    </div>
+    <div class="details-card">
+      <header class="card-title">
+        <div>03</div>
+      </header>
+      <p>
+        按合作流程意向合作伙伴须<span class="bold">填写朗生城市运营中心《合作申请表》</span>，经朗生营销服务中心负责人审核后签订朗生城市运营中心《合作意向书》，同时意向合作伙伴须<span class="bold">缴纳意向合作履约保证金人民币贰万元整</span>，签订《合作意向书》之后5个工作日内，朗生营销服务中心对意向合作伙伴资质进行评估。
+      </p>
+    </div>
+    <div class="details-card">
+      <header class="card-title">
+        <div>04</div>
+      </header>
+      <p>
+        经对意向合作伙伴资质评估，符合朗生合伙人标准之后的一个月之内，意向合作伙伴需<span class="bold">按照朗生运营中心选址标准（面积不少于400平方的创意创业园区/写字楼）进行城市运营中心的选址</span>，提供不少于三个备选场地，由朗生营销服务中心安排人员对备选场地进行考察评估。
+      </p>
+    </div>
+    <div class="details-card">
+      <header class="card-title">
+        <div>05</div>
+      </header>
+      <p>
+        确定朗生城市运营中心场地之后的5个工作日内，双方正式<span class="bold">签订朗生城市运营中心《合作协议》</span>，意向合作伙伴需缴纳品牌授权费5万、履约保证金5万，共计10万元。
+      </p>
+    </div>
+    <div class="details-card">
+      <header class="card-title">
+        <div>06</div>
+      </header>
+      <p>
+        如签订《合作意向书》之后，<span class="bold">未通过</span>朗生城市运营中心合作伙伴资质的审核，或通过审核之后超过一个月未确定城市运营中心选址的意向合作伙伴，<span class="bold">将终止双方的意向合作关系</span>，退回意向合作伙伴的意向合作履约保证金。
+      </p>
+    </div>
+    <div class="details-card">
+      <header class="card-title">
+        <div>07</div>
+      </header>
+      <p>
+        签订朗生城市运营中心《合作协议》之后，合作伙伴须提供<span class="bold">朗生城市运营中心场地</span>所需的设计申请资料，<span class="bold">由朗生研发设计中心按照朗生城市运营中心的标准进行设计</span>，城市运营中心所涉及的所有装修、装饰物料（基础装修材料除外）、软装等须全部向朗生总部统一采购，运营中心图纸设计完成并交付予合作伙伴的5个工作日内,合作伙伴需预付全部物料的货款，验收合格之后进行对账结算。
+      </p>
+    </div>
+    <div class="details-card">
+      <header class="card-title">
+        <div>08</div>
+      </header>
+      <p>
+        <span class="bold">关于运营中心装修周期问题</span>：朗生的运营中心从拿到场地到规划设计、方案确认、图纸设计、现场基底装修、现场复尺、确认物料、物料生产环节、上样装修、软装组装、卫生处理等是一个周期较长的过程，不同于一般其他材料标准展厅，我们朗生运营中心都是根据场地的特点进行单独设计，物料更是量身定制，因此各个时间节点相叠合之后，装修周期是需要一定时间，项目立项之后，研发设计中心拟定项目进度表供合作伙伴参考。
+      </p>
+    </div>
+    <div class="details-card">
+      <header class="card-title">
+        <div>09</div>
+      </header>
+      <p>
+        城市运营中心建设验收合格之前，合作伙伴下达的<span class="bold">所有订单按朗生产品统一出厂价执行，但营销、装修支持返款不作计算。</span>
+      </p>
+    </div>
+    <div class="details-card">
+      <header class="card-title">
+        <div>10</div>
+      </header>
+      <p>
+        <span class="bold">经营范围仅限所在城市的行政管辖区域范围内</span>，合作伙伴销售活动需按照朗生运营中心《项目报备制度》政策执行，如违反《项目报备制度》的相关规定的则按《项目报备制度》相关条款处理。
+      </p>
+    </div>
+  </section>
+</template>
+
+<script>
+  export default {
+    data () {
+      return {}
+    },
+
+    methods: {},
+
+    created () {
+
+    }
+  }
+</script>
+
+<style lang="less" rel="stylesheet/less">
+
+  .details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    img {
+      width: 100%;
+      height: 220vw;
+    }
+  }
+  .details-card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    border-radius: .2rem;
+    background: #fef1e1;
+    padding: .6rem .4rem .4rem;
+    margin-bottom: .4rem;
+    p {
+      color: #333;
+      margin-top: .4rem;
+      text-indent: 16px;
+      text-align-last: left;
+      text-align: justify;
+      line-height: .6rem;
+    }
+    .card-title {
+      position: relative;
+      color: #fff;
+      font-size: 20px;
+      width: 90%;
+      height: .6rem;
+      text-align: center;
+      line-height: .6rem;
+      background: linear-gradient(to right, transparent, #d3a97b, transparent);
+    }
+  }
+
+</style>
